@@ -1,4 +1,28 @@
-/* Created by: Mr. Coxall
+/* Created by: Olivia B-R
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+  background-color: rgb(233 230 208);
+}
+
+img {
+  float: left;
+  width: 200px;
+}
+
+#intro-header {
+  padding-right: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+  font-size: larger;
+  font-weight: bold;
+}
+
+#body-text {
+  padding-right: 15pt;
+  padding-top: 5pt;
+  text-align: right;
+  font-size: small;
+  font-weight: lighter;
+}
